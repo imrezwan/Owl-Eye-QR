@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Owl Eye QR</string>
+    <string name="help_text">"* Please write how many random QR code you want to generate in the textbox below. The QR codes will be saved to \"OWL EYE QR\" folder as PDF file. "</string>
+</resources>
